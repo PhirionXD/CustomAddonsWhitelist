@@ -3,7 +3,6 @@
     "name": "1TapNoSkill",
     "modules": [
       "join_priority",
-      "lootdrop",
       "moderator"
     ]
   }
