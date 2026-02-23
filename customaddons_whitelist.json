@@ -4,8 +4,7 @@
     "modules": [
       "lootdrop",
       "visuals",
-      "join_priority",
-      "modifications"
+      "join_priority"
     ]
   }
 }
