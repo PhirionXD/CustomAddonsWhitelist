@@ -3,7 +3,8 @@
     "name": "1TapNoSkill",
     "modules": [
       "visuals",
-      "join_priority"
+      "join_priority",
+      "lootdrop"
     ]
   }
 }
