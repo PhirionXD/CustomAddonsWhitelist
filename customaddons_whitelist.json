@@ -2,9 +2,9 @@
   "1292c2d5-fdf4-4718-958a-0000c7740b64": {
     "name": "Locall",
     "modules": [
-      "join_priority",
       "lootdrop",
-      "visuals"
+      "visuals",
+      "join_priority"
     ]
   }
 }
