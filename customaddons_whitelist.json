@@ -2,17 +2,8 @@
   "1ea69d21-98c7-4fa1-9206-000007735882": {
     "name": "1TapNoSkill",
     "modules": [
-      "join_priority",
-      "moderator",
-      "lootdrop"
-    ]
-  },
-  "1292c2d5-fdf4-4718-958a-0000c7740b64": {
-    "name": "Locall",
-    "modules": [
-      "join_priority",
-      "lootdrop",
-      "moderator"
+      "visuals",
+      "join_priority"
     ]
   }
 }
