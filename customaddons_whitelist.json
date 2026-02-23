@@ -2,8 +2,6 @@
   "1ea69d21-98c7-4fa1-9206-000007735882": {
     "name": "1TapNoSkill",
     "modules": [
-      "visuals",
-      "join_priority",
       "lootdrop"
     ]
   }
