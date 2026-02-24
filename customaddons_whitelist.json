@@ -5,7 +5,8 @@
       "lootdrop",
       "visuals",
       "join_priority",
-      "other"
+      "other",
+      "modifications"
     ]
   }
 }
