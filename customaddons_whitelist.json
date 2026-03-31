@@ -12,11 +12,21 @@
   "2e11dacc-a313-4c0e-910f-0000d9dcb94e": {
     "name": "BestInCom",
     "modules": [
-      "join_priority",
       "lootdrop",
       "visuals",
       "modifications",
-      "other"
+      "other",
+      "join_priority"
+    ]
+  },
+  "700be79e-6a47-4052-8176-0000175d7fda": {
+    "name": "RagManager",
+    "modules": [
+      "join_priority",
+      "lootdrop",
+      "modifications",
+      "other",
+      "visuals"
     ]
   }
 }
