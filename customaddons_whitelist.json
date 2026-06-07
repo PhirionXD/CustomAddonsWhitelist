@@ -16,7 +16,9 @@
       "visuals",
       "modifications",
       "other",
-      "join_priority"
+      "join_priority",
+      "damage_indicator",
+      "nametag"
     ]
   },
   "700be79e-6a47-4052-8176-0000175d7fda": {
@@ -27,7 +29,8 @@
       "modifications",
       "other",
       "visuals",
-      "nametag"
+      "nametag",
+      "damage_indicator"
     ]
   }
 }
